@@ -13,7 +13,7 @@
 
 
 const char* ssid = "realme GT 2 Pro";
-const char* password = "123456789";
+const char* password = "00000000";
 
 const int nominalFansRpm=1500;	// Prędkość znamionowa(maksymalna) wentylatorów (stała)
 
